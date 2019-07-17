@@ -9,7 +9,7 @@
 
 .goodsList h3 {
     height: 34px;
-    background-color: skyblue;
+    background-color: saddlebrown;
     position: relative;
 }
 
@@ -33,7 +33,8 @@
     top: 0;
     right: 100px;
 }
-.goodsList .list{
+
+.goodsList .list {
     border: 1px solid pink;
     min-height: 80px;
 }
