@@ -1,69 +1,90 @@
-.wrapper{
+.wrapper {
     width: 988px;
     margin: 0 auto;
 }
-.wrapper h2{
+
+.wrapper h2 {
     padding: 12px 0;
 }
-.goodsList h3{
+
+.goodsList h3 {
     height: 34px;
+<<<<<<< HEAD
+    background-color: lightcoral;
+=======
     background-color: red;
+>>>>>>> 184781220d214ee5a20e6dbba5d246330e056bcc
     position: relative;
 }
-.goodsList h3 span{
+
+.goodsList h3 span {
     position: absolute;
     font-size: 16px;
     line-height: 34px;
 }
-.goodsList h3 .tit1{
+
+.goodsList h3 .tit1 {
     top: 0;
     left: 100px;
 }
-.goodsList h3 .tit2{
+
+.goodsList h3 .tit2 {
     top: 0;
     left: 600px;
 }
-.goodsList h3 .tit3{
+
+.goodsList h3 .tit3 {
     top: 0;
     right: 100px;
 }
+<<<<<<< HEAD
+
+.goodsList .list {
+    border: 1px solid #eee;
+=======
 .goodsList .list{
     border: 1px solid pink;
+>>>>>>> 184781220d214ee5a20e6dbba5d246330e056bcc
     min-height: 80px;
 }
-.goodsList .list li{
+
+.goodsList .list li {
     border-top: 1px solid #eee;
     padding: 10px;
     overflow: hidden;
 }
-.goodsList .list li img{
+
+.goodsList .list li img {
     width: 100px;
     height: 100px;
     float: left;
 }
-.goodsList .list li h5{
+
+.goodsList .list li h5 {
     width: 350px;
     float: left;
     padding: 5px 10px;
     font-size: 16px;
 }
-.goodsList .list li p{
+
+.goodsList .list li p {
     float: left;
     font-size: 16px;
     color: red;
     margin-left: 112px;
 }
-.goodsList .list li span{
+
+.goodsList .list li span {
     float: left;
     font-size: 16px;
     color: blue;
     margin-left: 220px;
     cursor: pointer;
 }
-.goodsList .list li.tips{
+
+.goodsList .list li.tips {
     font-size: 16px;
     color: #999;
     line-height: 80px;
     text-align: center;
 }
-
