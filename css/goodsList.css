@@ -1,14 +1,16 @@
-.wrapper{
+.wrapper {
     width: 988px;
     margin: 0 auto;
 }
-.head{
+
+.head {
     height: 32px;
-    background-color: #eee;
+    background-color: green;
     overflow: hidden;
     padding: 10px 20px;
 }
-.head a{
+
+.head a {
     float: right;
     font-size: 16px;
     color: red;
@@ -16,36 +18,43 @@
     border: 1px solid red;
     line-height: 20px;
 }
-.link{
+
+.link {
     padding: 12px 0;
 }
-.content{
+
+.content {
     overflow: hidden;
 }
-.content .goods{
+
+.content .goods {
     float: left;
     width: 200px;
     margin-left: 20px;
     padding: 10px;
     margin-bottom: 20px;
     border: 1px solid #fff;
-
 }
-.content .goods:hover{
+
+.content .goods:hover {
     border: 1px solid red;
 }
-.content .goods img{
+
+.content .goods img {
     width: 200px;
     height: 200px;
 }
-.content .goods p{
+
+.content .goods p {
     font-size: 18px;
     color: red;
 }
-.content .goods h4{
+
+.content .goods h4 {
     padding: 5px 0;
 }
-.content .goods div{
+
+.content .goods div {
     border: 1px solid #ccc;
     float: right;
     padding: 4px 6px 4px 32px;
@@ -53,6 +62,7 @@
     cursor: pointer;
     background: url(../img/cart.png) 4px 4px no-repeat;
 }
-.content .goods div:hover{
+
+.content .goods div:hover {
     border: 1px solid red;
 }
