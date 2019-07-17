@@ -9,7 +9,11 @@
 
 .goodsList h3 {
     height: 34px;
+<<<<<<< HEAD
     background-color: lightcoral;
+=======
+    background-color: red;
+>>>>>>> 184781220d214ee5a20e6dbba5d246330e056bcc
     position: relative;
 }
 
@@ -33,9 +37,14 @@
     top: 0;
     right: 100px;
 }
+<<<<<<< HEAD
 
 .goodsList .list {
     border: 1px solid #eee;
+=======
+.goodsList .list{
+    border: 1px solid pink;
+>>>>>>> 184781220d214ee5a20e6dbba5d246330e056bcc
     min-height: 80px;
 }
 
