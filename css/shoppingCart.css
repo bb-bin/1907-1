@@ -9,7 +9,11 @@
 
 .goodsList h3 {
     height: 34px;
+<<<<<<< HEAD
     background-color: black;
+=======
+    background-color: green;
+>>>>>>> 4874b66667b11f6a124904e19f32ac8dc67dd09a
     position: relative;
 }
 
