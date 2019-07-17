@@ -1,0 +1,58 @@
+.wrapper{
+    width: 988px;
+    margin: 0 auto;
+}
+.head{
+    height: 32px;
+    background-color: #eee;
+    overflow: hidden;
+    padding: 10px 20px;
+}
+.head a{
+    float: right;
+    font-size: 16px;
+    color: red;
+    padding: 4px 10px;
+    border: 1px solid red;
+    line-height: 20px;
+}
+.link{
+    padding: 12px 0;
+}
+.content{
+    overflow: hidden;
+}
+.content .goods{
+    float: left;
+    width: 200px;
+    margin-left: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #fff;
+
+}
+.content .goods:hover{
+    border: 1px solid red;
+}
+.content .goods img{
+    width: 200px;
+    height: 200px;
+}
+.content .goods p{
+    font-size: 18px;
+    color: red;
+}
+.content .goods h4{
+    padding: 5px 0;
+}
+.content .goods div{
+    border: 1px solid #ccc;
+    float: right;
+    padding: 4px 6px 4px 32px;
+    color: red;
+    cursor: pointer;
+    background: url(../img/cart.png) 4px 4px no-repeat;
+}
+.content .goods div:hover{
+    border: 1px solid red;
+}
