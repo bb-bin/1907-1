@@ -28,7 +28,7 @@
     right: 100px;
 }
 .goodsList .list{
-    border: 1px solid #eee;
+    border: 1px solid pink;
     min-height: 80px;
 }
 .goodsList .list li{
